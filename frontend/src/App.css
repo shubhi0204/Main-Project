@@ -1,0 +1,12 @@
+.main-layout
+{
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+    min-height: 100vh;
+    justify-content:space-between;
+}
+*{
+    margin:0;
+    scroll-behavior: smooth;
+}
